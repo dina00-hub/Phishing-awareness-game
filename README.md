@@ -1,5 +1,5 @@
 Phishing Awareness Game!
-Dette prosjektet er et enkelt spill laget med React Native og Expo, som har som mål å trene brukere i å oppdage phishing-eposter. Når man starter spillet, får man opp eksempler på e-poster. Spilleren må deretter velge om meldingen er Phishing eller Trygg. Etter at man har svart på alle eksemplene, får man en slutt-score, og man kan spille igjen for å øve mer.
+Dette prosjektet er et enkelt og morsomt spill laget med React Native og Expo, som har som mål å trene brukere i å oppdage phishing-eposter. Når man starter spillet, får man opp eksempler på e-poster. Spilleren må deretter velge om meldingen er Phishing eller Trygg. Etter at man har svart på alle eksemplene, får man en slutt-score, og man kan spille igjen for å øve mer.
 
 For å kjøre prosjektet lokalt må man først installere alle nødvendige avhengigheter ved å kjøre kommandoen npm install. Når dette er gjort kan spillet startes med kommandoen npx expo start. Expo åpner da et utviklingsmiljø der man kan kjøre appen i nettleser, eller skanne QR-koden i appen Expo Go på mobiltelefonen.
 
